@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "AwesomeProject",
+    "description": "This is Awesome project",
+    "slug": "AwesomeProject",
+    "version": "1.0.0",
+    "sdkVersion": "44.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "package": "com.test.awesomeproject"
+    }
+  },
+  "name": "AwesomeProject"
+}
